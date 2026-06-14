@@ -1,4 +1,4 @@
-package com.afeez.ems;
+package com.afeez.ems.model;
 
 public class Employee {
 

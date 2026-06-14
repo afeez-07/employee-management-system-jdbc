@@ -1,4 +1,4 @@
-package com.afeez.ems;
+package com.afeez.ems.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

@@ -1,6 +1,12 @@
-package com.afeez.ems;
+package com.afeez.ems.dao;
 
-import java.sql.*;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.Statement;
+
+import com.afeez.ems.model.Employee;
+import com.afeez.ems.util.DBConnection;
 
 public class EmployeeDAO {
 
